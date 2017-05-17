@@ -1,0 +1,9 @@
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\obj\Debug\SimpleGuiCalculator.csprojResolveAssemblyReference.cache
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\obj\Debug\SimpleGuiCalculator.Form1.resources
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\obj\Debug\SimpleGuiCalculator.Properties.Resources.resources
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\obj\Debug\SimpleGuiCalculator.csproj.GenerateResource.Cache
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\bin\Debug\SimpleGuiCalculator.exe.config
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\bin\Debug\SimpleGuiCalculator.exe
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\bin\Debug\SimpleGuiCalculator.pdb
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\obj\Debug\SimpleGuiCalculator.exe
+c:\users\duran_000\documents\visual studio 2017\Projects\SimpleGuiCalculator\SimpleGuiCalculator\obj\Debug\SimpleGuiCalculator.pdb
